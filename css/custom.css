@@ -24,8 +24,13 @@ a:hover {
 /* Background and content area */
 body {
     background-image: url("http://ts-mc.net/bg.jpg");
-    background-position: center;
+    background-repeat: no-repeat;
     background-attachment: fixed;
+    background-position: center;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
 }
 
 .jumbotron {
