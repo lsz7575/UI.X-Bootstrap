@@ -14,3 +14,5 @@ The template itself is blank, and is really only a starting point for creating c
 
 Picture of blank template
 <img src="http://i.imgur.com/shUF9ht.png">
+
+Also avalaible on <a href="http://www.spigotmc.org/resources/ui-x-bootstrap.5166/">Spigot</a>
