@@ -13,6 +13,6 @@ The template itself is blank, and is really only a starting point for creating c
 <img src="http://i.imgur.com/TKA83SK.png">
 
 Picture of blank template
-<img src="http://i.imgur.com/shUF9ht.png">
+<img src="http://i.imgur.com/n2Mr156.png">
 
 Also avaliable on <a href="http://www.spigotmc.org/resources/ui-x-bootstrap.5166/">Spigot</a>
