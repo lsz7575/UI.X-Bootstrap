@@ -9,7 +9,7 @@ Stats page using this template (Ugly, I know)
 <img src="http://i.imgur.com/nPJ6cCK.png">
 
 <a href="http://shop.ts-mc.net/">MinecraftMarket theme</a> using this template<br>
-<a href="http://www.spigotmc.org/threads/ui-x-minecraftmarket.56233/">Tutorial here
+<a href="http://www.spigotmc.org/threads/ui-x-minecraftmarket.56233/">Tutorial here</a>
 <img src="http://i.imgur.com/TKA83SK.png">
 
 Picture of blank template
