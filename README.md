@@ -5,7 +5,7 @@ The template itself is blank, and is really only a starting point for creating c
 <a href="http://ts-mc.net/">My Forums</a> with <a href="https://www.audentio.com/shop/view/xenforo/ui.x-23">UI.X</a>
 <img src="http://i.imgur.com/vn1kM4w.png">
 
-<a href="http://ts-mc.net/stats/">Stats page</a> using this template (Ugly, I know)
+Stats page using this template (Ugly, I know)
 <img src="http://i.imgur.com/nPJ6cCK.png">
 
 <a href="http://shop.ts-mc.net/">MinecraftMarket theme</a> using this template<br>
@@ -14,5 +14,3 @@ The template itself is blank, and is really only a starting point for creating c
 
 Picture of blank template
 <img src="http://i.imgur.com/n2Mr156.png">
-
-Also avaliable on <a href="http://www.spigotmc.org/resources/ui-x-bootstrap.5166/">Spigot</a>
